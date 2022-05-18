@@ -10,15 +10,33 @@
     <title>tv movies</title>
 </head>
 <body>
-   <div id="post-section">
-      <h1>TV Search</h1>
+   <div class="jumbotron text-center">
+      <h1 class="display-4 text-capitalize text-info fw-bolder">TV Search</h1>
+      <p class="text-dark">Search your favourite series or movies</p>
+      <hr class="my-4">
+      </div>
+<!-- <div class="container">
     <input type="text" id="searchField" placeholder="Search a TV Show...">
     <ul id="resultsList"></ul>
     <ul id="imagesDisplay"></ul>
     <div id=" errorMessage">
     </div>
-   </div>
-
+   
+   </div> -->
+   <input type="text" id="searchField" placeholder="Search a TV Show...">
+   <div class="row row-cols-1 row-cols-md-2 g-4" id="resultsList">
+      
+      <div class="col">
+        <div class="card">
+          <img src="..." class="card-img-top" id="imagesDisplay">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+          </div>
+        </div>
+      </div>
+      
+    </div>
 
 
 

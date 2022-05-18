@@ -16,7 +16,7 @@ function renderShows(shows) {
   const list = document.getElementById("resultsList");
   list.innerHTML = "";
   shows.forEach(show => {
-    const element = document.createElement("li");
+    const element = document.createElement("div");
     const img = document.createElement("img");
     img.classList.add('images');
     const text = document.createElement("span");
