@@ -1,4 +1,4 @@
-# movie-TVmaze-API
+# movie-TVmaze-API is a simple application that consumes TVmaze API which is a free api. the application basically is using fetch api in javascript to interact with the api endpoint
 ![Screenshot (244)](https://user-images.githubusercontent.com/64264883/168983366-c2def21b-adf8-47a5-a214-8cbffba0a716.png)
 
 #  
