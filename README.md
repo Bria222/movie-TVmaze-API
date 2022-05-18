@@ -6,9 +6,10 @@
 
 ## Built With
 
-1. html
-2. css
-3. Figma
+1. html5
+2. scss
+3. javascript
+4. rest API
 
 ## Getting Started
 
