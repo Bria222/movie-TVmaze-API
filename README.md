@@ -1,9 +1,8 @@
 # movie-TVmaze-API
-
 ![Screenshot (244)](https://user-images.githubusercontent.com/64264883/168983366-c2def21b-adf8-47a5-a214-8cbffba0a716.png)
 
-#  mobile version skeleton portfolio
-## live page:- https://loving-mayer-a3a246.netlify.app
+#  
+## live page:- coming soon
 
 ## Built With
 
