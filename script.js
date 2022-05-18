@@ -23,8 +23,9 @@ function renderShows(shows) {
     
     img.src = show.image.original;
     text.innerText = show.name;
-    
+    text.classList.add('movieHead');
     element.appendChild(text);
+
     element.appendChild(img);
     
     list.appendChild(element);
