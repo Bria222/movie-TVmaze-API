@@ -46,7 +46,7 @@ Screenshots can be found in the repository.
 
 ## Live Demo 🔗
 
-Check the live demo [here](https://mavericks-db.github.io/capstone02/dist)👈
+Check the live demo [here]()👈
 
 ## Getting Started
 
